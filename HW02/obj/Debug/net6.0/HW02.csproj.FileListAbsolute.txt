@@ -1,0 +1,15 @@
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\HW02.csproj.AssemblyReference.cache
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\HW02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\HW02.AssemblyInfoInputs.cache
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\HW02.AssemblyInfo.cs
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\HW02.csproj.CoreCompileInputs.cache
+D:\Programming\Seminary\Seminar002\HW02\bin\Debug\net6.0\HW02.exe
+D:\Programming\Seminary\Seminar002\HW02\bin\Debug\net6.0\HW02.deps.json
+D:\Programming\Seminary\Seminar002\HW02\bin\Debug\net6.0\HW02.runtimeconfig.json
+D:\Programming\Seminary\Seminar002\HW02\bin\Debug\net6.0\HW02.dll
+D:\Programming\Seminary\Seminar002\HW02\bin\Debug\net6.0\HW02.pdb
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\HW02.dll
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\refint\HW02.dll
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\HW02.pdb
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\HW02.genruntimeconfig.cache
+D:\Programming\Seminary\Seminar002\HW02\obj\Debug\net6.0\ref\HW02.dll
